@@ -10,6 +10,23 @@ A plataforma também serve de estudo e portfólio vivo para seus dois criadores 
 
 O projeto também pretende ter a implementação de esteira DevSecOps (com checagem de testes unitários, qualidade de código e segurança) e hospedagem do back na AWS/Heroku
 
+# Repositórios
+
+## API
+[curriculo-api](https://github.com/larjr/curriculo-api)
+
+## Frontend
+[curriculo-frontend](https://github.com/larjr/curriculo-frontend)
+
+## Mobile
+[curriculo-mobile](https://github.com/larjr/curriculo-mobile)
+
+## Docs
+[curriculo-docs](https://github.com/larjr/curriculo-docs)
+
+## Sobre
+[curriculo-sobre](https://github.com/larjr/curriculo-sobre)
+
 # Licença
 A licença de todos os projetos serão MIT, para facilitar o uso da comunidade e de quem precisar
 
